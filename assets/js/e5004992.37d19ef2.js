@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[281],{7291:e=>{e.exports=JSON.parse('{"permalink":"/plum/blog/tags/plum","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

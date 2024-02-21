@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[801],{5098:s=>{s.exports=JSON.parse('{"label":"fundadores","permalink":"/plum/blog/tags/fundadores","allTagsPath":"/plum/blog/tags","count":1,"unlisted":false}')}}]);

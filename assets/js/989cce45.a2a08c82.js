@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusan=self.webpackChunkdocusan||[]).push([[457],{9572:l=>{l.exports=JSON.parse('{"label":"plum","permalink":"/plum/blog/tags/plum","allTagsPath":"/plum/blog/tags","count":1,"unlisted":false}')}}]);
